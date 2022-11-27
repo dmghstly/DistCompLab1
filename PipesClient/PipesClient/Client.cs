@@ -81,7 +81,6 @@ namespace Pipes
 
             InitializePipes(name);
 
-            rtbClient.Enabled = true;
             tbMessage.Enabled = true;
             btnSend.Enabled = true;
 
